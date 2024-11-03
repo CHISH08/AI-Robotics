@@ -1,0 +1,11 @@
+# data path
+*data
+*frames*
+*recorded_videos
+
+# rabbit
+rl
+
+# models
+*top
+*top_with_down
