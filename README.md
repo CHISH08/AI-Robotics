@@ -7,7 +7,7 @@
 ## В чем состояла задача
 
 В данном файле представлен регламент хакатона.
-[📄 Регламент Yandex Camp v3.pdf](data_for_present/Регламент Yandex Camp v3.pdf)
+[📄 Регламент Yandex Camp v3.pdf](data_for_present/reglament_yandex_camp_v3.pdf)
 
 Если вкратце: нужно переносить объекты в корзинку и нажать на кнопку единожды. Также робот должен передвигаться, не врезаясь в стенки и другие объекты.
 
@@ -68,15 +68,15 @@
 3. Объединяем с маской
 
 **Результат:**
-[![dinamic\_top.mp4](data_for_present/dinamic_top.png)](data_for_present/dinamic_top.mp4)
+[![dinamic\_top.mp4](data_for_present/static_top.png)](data_for_present/static_top.mp4)
 🎥 `dinamic_top.mp4`
 
 ## Детекция объектов с нижней камеры
 
-Аналогично верхней.
+Аналогично верхней, только с нижней камеры.
 
 **Результат:**
-[![down\_camera.mp4](data_for_present/down_camera_preview.jpg)](data_for_present/down_camera.mp4)
+[![down\_camera.mp4](data_for_present/dinamic_top.png)](data_for_present/dinamic_top.mp4)
 🎥 `down_camera.mp4`
 
 ## Подытожим
